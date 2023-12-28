@@ -1,0 +1,36 @@
+E:/Modelsim_Vivado/lab10_StudentID/src/cyclic_tb.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab10_StudentID/src/cyclic_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module cyclic_tb
+
+Top level modules:
+	cyclic_tb
+
+} {} {}} E:/Modelsim_Vivado/lab10_StudentID/src/StudentID_tb.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab10_StudentID/src/StudentID_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module StudentID_tb_v
+
+Top level modules:
+	StudentID_tb_v
+
+} {} {}} E:/Modelsim_Vivado/lab10_StudentID/src/display.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab10_StudentID/src/display.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module display
+
+Top level modules:
+	display
+
+} {} {}} E:/Modelsim_Vivado/lab10_StudentID/src/cyclic.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab10_StudentID/src/cyclic.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module cyclic
+
+Top level modules:
+	cyclic
+
+} {} {}} {E:/Modelsim_Vivado/lab10_StudentID/src/display_tb .v} {1 {vlog -work work -vopt -stats=none {E:/Modelsim_Vivado/lab10_StudentID/src/display_tb .v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module display_tb_v
+
+Top level modules:
+	display_tb_v
+
+} {} {}}

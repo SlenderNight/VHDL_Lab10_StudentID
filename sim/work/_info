@@ -1,0 +1,203 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Modelsim_Vivado/lab5_combination/sim
+T_opt
+!s110 1702568349
+V<U[Q3@fKMzZ`5CHAAJ?VN3
+04 9 4 work cyclic_tb fast 0
+=1-c403a83aaaca-657b219d-288-2730
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1702568922
+VbB<?5Oz@TY4B=oa<Un=Tm2
+04 12 4 work display_tb_v fast 0
+=1-c403a83aaaca-657b23da-b6-53b8
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1702571649
+VLHE8hcX97m_5W0<3P<hdC3
+04 14 4 work StudentID_tb_v fast 0
+=1-6c24085e7d90-657b2e80-365-1540
+R1
+R2
+n@_opt2
+R3
+vcounter_n
+Z4 !s110 1702566906
+!i10b 1
+!s100 F4;I?]JbYU49;COFdOP?F1
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_49^R@DC4;;g9`8SPaX_A0
+Z6 dE:/Modelsim_Vivado/lab10_StudentID/sim
+w1702555007
+8E:/Modelsim_Vivado/lab10_StudentID/src/counter_n.v
+FE:/Modelsim_Vivado/lab10_StudentID/src/counter_n.v
+!i122 0
+L0 1 22
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1702566906.000000
+!s107 E:/Modelsim_Vivado/lab10_StudentID/src/counter_n.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab10_StudentID/src/counter_n.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vcyclic
+!s110 1702568912
+!i10b 1
+!s100 8fIPPWAYA`X?S=6_;;4Y`0
+R5
+I`AL0YcUbYZ`7;o`dh72YY1
+R6
+w1702568633
+8E:/Modelsim_Vivado/lab10_StudentID/src/cyclic.v
+FE:/Modelsim_Vivado/lab10_StudentID/src/cyclic.v
+!i122 14
+L0 1 21
+R7
+R8
+r1
+!s85 0
+31
+!s108 1702568912.000000
+!s107 E:/Modelsim_Vivado/lab10_StudentID/src/cyclic.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab10_StudentID/src/cyclic.v|
+!i113 0
+R10
+R2
+vcyclic_tb
+!s110 1702568910
+!i10b 1
+!s100 2JEWYT4kL8GI_jZkC4Ul^2
+R5
+I[0R6:oA@QAQ@V:mIjFEG@3
+R6
+w1702568855
+8E:/Modelsim_Vivado/lab10_StudentID/src/cyclic_tb.v
+FE:/Modelsim_Vivado/lab10_StudentID/src/cyclic_tb.v
+!i122 13
+L0 4 27
+R7
+R8
+r1
+!s85 0
+31
+!s108 1702568910.000000
+!s107 E:/Modelsim_Vivado/lab10_StudentID/src/cyclic_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab10_StudentID/src/cyclic_tb.v|
+!i113 0
+R10
+R2
+vdisplay
+R4
+!i10b 1
+!s100 ;JNZ19FAPTId20k0F4PH20
+R5
+IedikfChA7I2hjn:B2g=KP0
+R6
+w1702563911
+8E:/Modelsim_Vivado/lab10_StudentID/src/display.v
+FE:/Modelsim_Vivado/lab10_StudentID/src/display.v
+!i122 3
+L0 1 83
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab10_StudentID/src/display.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab10_StudentID/src/display.v|
+!i113 0
+R10
+R2
+vdisplay_tb_v
+R4
+!i10b 1
+!s100 QgRgGk[j@Q1mJ`3Q;U?[F0
+R5
+ImSS?<QVg?YWf7:POl<86A2
+R6
+w1702556901
+8E:/Modelsim_Vivado/lab10_StudentID/src/display_tb .v
+FE:/Modelsim_Vivado/lab10_StudentID/src/display_tb .v
+!i122 4
+L0 8 86
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab10_StudentID/src/display_tb .v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab10_StudentID/src/display_tb .v|
+!i113 0
+R10
+R2
+vStudentID
+!s110 1702571645
+!i10b 1
+!s100 H>C_oR_D7nnk>Skc_kO?N2
+R5
+IhRbXbGZ?Y[TUMWB;W2Unb0
+R6
+w1702571640
+8E:/Modelsim_Vivado/lab10_StudentID/src/StudentID.v
+FE:/Modelsim_Vivado/lab10_StudentID/src/StudentID.v
+!i122 20
+L0 1 60
+R7
+R8
+r1
+!s85 0
+31
+!s108 1702571645.000000
+!s107 E:/Modelsim_Vivado/lab10_StudentID/src/StudentID.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab10_StudentID/src/StudentID.v|
+!i113 0
+R10
+R2
+n@student@i@d
+vStudentID_tb_v
+!s110 1702570157
+!i10b 1
+!s100 YJL[QG8;dE150d`57CzH20
+R5
+IEHl]J_G>CTbO1DCQj1I6K1
+R6
+w1702569503
+8E:/Modelsim_Vivado/lab10_StudentID/src/StudentID_tb.v
+FE:/Modelsim_Vivado/lab10_StudentID/src/StudentID_tb.v
+!i122 15
+L0 14 62
+R7
+R8
+r1
+!s85 0
+31
+!s108 1702570157.000000
+!s107 E:/Modelsim_Vivado/lab10_StudentID/src/StudentID_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab10_StudentID/src/StudentID_tb.v|
+!i113 0
+R10
+R2
+n@student@i@d_tb_v
